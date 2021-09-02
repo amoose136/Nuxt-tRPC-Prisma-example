@@ -2,10 +2,18 @@
 // learn more about it in the docs: https://pris.ly/d/prisma-schema
 
 datasource db {
-  provider = "postgresql"
-  url      = env("DATABASE_URL")
+  provider = "sqlite"
+  url      = "file:./dev.db"
 }
 
 generator client {
   provider = "prisma-client-js"
+}
+
+
+model coloredObjects {
+  id        Int      @id @default(autoincrement())
+  createdAt DateTime @default(now())
+  color     String // color as a hex
+  name   String  // colors as a name "red", "blue", "green" etc
 }

@@ -1,0 +1,7 @@
+-- CreateTable
+CREATE TABLE "coloredObjects" (
+    "id" INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT,
+    "createdAt" DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+    "color" TEXT NOT NULL,
+    "name" TEXT NOT NULL
+);
