@@ -1,5 +1,5 @@
 {
-  "name": "Nuxt-tRPC-Prisma-example",
+  "name": "nuxt-trpc-prisma-example",
   "version": "1.0.0",
   "private": true,
   "scripts": {
