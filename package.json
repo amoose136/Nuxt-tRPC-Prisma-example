@@ -15,7 +15,7 @@
   },
   "dependencies": {
     "@nuxtjs/composition-api": "^0.28.0",
-    "@prisma/client": "^2.30.3",
+    "@prisma/client": "^3.0.1",
     "@trpc/client": "^9.2.0",
     "@trpc/server": "^9.2.0",
     "core-js": "^3.17.2",
