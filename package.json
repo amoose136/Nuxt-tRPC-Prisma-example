@@ -14,7 +14,7 @@
     "preinstall": "npx npm-force-resolutions"
   },
   "dependencies": {
-    "@nuxtjs/composition-api": "^0.28.0",
+    "@nuxtjs/composition-api": "^0.29.0",
     "@prisma/client": "^2.30.3",
     "@trpc/client": "^9.2.0",
     "@trpc/server": "^9.2.0",
