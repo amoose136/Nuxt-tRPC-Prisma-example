@@ -41,7 +41,7 @@
     "jest": "^27.0.5",
     "node-sass": "^6.0.1",
     "prettier": "^2.3.2",
-    "prettier-plugin-prisma": "^2.30.0",
+    "prettier-plugin-prisma": "^3.0.1",
     "prisma": "^2.30.3",
     "sass-loader": "^12.1.0",
     "stylelint": "^13.13.1",
