@@ -40,7 +40,7 @@
     "eslint-plugin-vue": "^7.12.1",
     "jest": "^27.1.1",
     "node-sass": "^6.0.1",
-    "prettier": "^2.4.0",
+    "prettier": "^2.4.1",
     "prettier-plugin-prisma": "^3.0.1",
     "prisma": "^3.0.2",
     "sass-loader": "^12.1.0",
